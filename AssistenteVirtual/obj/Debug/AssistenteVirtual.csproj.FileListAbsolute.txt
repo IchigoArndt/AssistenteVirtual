@@ -1,9 +1,0 @@
-C:\Projetos\AssistenteVirtual\AssistenteVirtual\bin\Debug\AssistenteVirtual.exe.config
-C:\Projetos\AssistenteVirtual\AssistenteVirtual\bin\Debug\AssistenteVirtual.exe
-C:\Projetos\AssistenteVirtual\AssistenteVirtual\bin\Debug\AssistenteVirtual.pdb
-C:\Projetos\AssistenteVirtual\AssistenteVirtual\obj\Debug\AssistenteVirtual.csproj.AssemblyReference.cache
-C:\Projetos\AssistenteVirtual\AssistenteVirtual\obj\Debug\AssistenteVirtual.Properties.Resources.resources
-C:\Projetos\AssistenteVirtual\AssistenteVirtual\obj\Debug\AssistenteVirtual.csproj.GenerateResource.cache
-C:\Projetos\AssistenteVirtual\AssistenteVirtual\obj\Debug\AssistenteVirtual.csproj.CoreCompileInputs.cache
-C:\Projetos\AssistenteVirtual\AssistenteVirtual\obj\Debug\AssistenteVirtual.exe
-C:\Projetos\AssistenteVirtual\AssistenteVirtual\obj\Debug\AssistenteVirtual.pdb
