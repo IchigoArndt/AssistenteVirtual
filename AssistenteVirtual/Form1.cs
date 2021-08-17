@@ -39,6 +39,8 @@ namespace AssistenteVirtual
                 motorReconhecimento.RecognizeAsync(RecognizeMode.Multiple); // Iniciar o Reconhecimento de Fala
 
 
+                //teste
+
             }
             catch (Exception ex) 
             {
